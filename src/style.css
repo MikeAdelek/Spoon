@@ -61,6 +61,16 @@ body {
   cursor: pointer;
 }
 
+.text a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.text a:visited {
+  color: #fff;
+  text-decoration: none;
+}
+
 .nav-container {
   display: flex;
   justify-content: center;
